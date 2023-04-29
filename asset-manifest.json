@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.a3b9990f.css",
-    "main.js": "/react-gh-pages/static/js/main.105ecaad.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.a3b9990f.css.map": "/react-gh-pages/static/css/main.a3b9990f.css.map",
-    "main.105ecaad.js.map": "/react-gh-pages/static/js/main.105ecaad.js.map"
+    "main.css": "/Tic-Tac-Toe/static/css/main.a3b9990f.css",
+    "main.js": "/Tic-Tac-Toe/static/js/main.105ecaad.js",
+    "index.html": "/Tic-Tac-Toe/index.html",
+    "main.a3b9990f.css.map": "/Tic-Tac-Toe/static/css/main.a3b9990f.css.map",
+    "main.105ecaad.js.map": "/Tic-Tac-Toe/static/js/main.105ecaad.js.map"
   },
   "entrypoints": [
     "static/css/main.a3b9990f.css",
